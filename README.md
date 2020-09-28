@@ -1,6 +1,6 @@
 # JYP-developer
 
-Python of MachineLearning and R of bigdata is a key player
+Python's machine learning and R's big data analysis are the main characters.
 
 I'm learning database(oracle,SQLserver), Front-End(javascript,react),Unity,swift,c,c++
 
