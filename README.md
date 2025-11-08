@@ -1,4 +1,4 @@
-# JYP-developer
+# GGP-R&D
 
 My main majors are big data major, artificial intelligence major,
 I am a developer with a double major in electrical and electronic engineering.
